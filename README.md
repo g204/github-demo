@@ -1,2 +1,2 @@
 # github-demo
-A simple demo repository to see how is basic git workflow.
+A simple demo repository to see how's basic git workflow.
